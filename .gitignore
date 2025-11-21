@@ -1,0 +1,6 @@
+# Ignore the local entity hoarder database
+entity-hoarder/entities.db
+
+# Python artifact ignores
+__pycache__/
+*.py[cod]
